@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nethraakumar/leetcode-solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nethraakumar/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Nethraakumar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Nethraakumar/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Nethraakumar/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nethraakumar/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Nethraakumar/leetcode-solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
